@@ -5,19 +5,19 @@ const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'OER Course Title',
-  tagline: 'OER Tag/Keyword',
-  url: 'https://Seneca-ICTOER.github.io/',
-  baseUrl: '/OERTemplate/',
+  title: 'APS145 Applied Problem Solving',
+  tagline: 'APS145',
+  url: 'https://Seneca-SDDS.github.io/',
+  baseUrl: '/APS/',
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Seneca-ICTOER',
-  projectName: 'OERTemplate',
+  organizationName: 'Seneca-SDDS',
+  projectName: 'APS',
   themeConfig: {
     navbar: {
-      title: 'OER Course Title',
+      title: 'APS145 Applied Problem Solving',
       logo: {
         alt: 'Seneca College',
         src: 'img/logo.svg',
@@ -57,7 +57,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
-          editUrl: 'https://github.com/Seneca-ICTOER/OERTemplate/tree/main',
+          editUrl: 'https://github.com/Seneca-SDDS/APS/tree/main',
           remarkPlugins: [math],
           rehypePlugins: [katex],
         },
