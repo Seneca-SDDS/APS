@@ -31,7 +31,7 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'OER Course Title',
+          title: 'APS145 Applied Problem Solving',
           items: [
             {
               label: 'Contents',

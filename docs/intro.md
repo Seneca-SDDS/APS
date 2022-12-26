@@ -1,27 +1,17 @@
 ---
 id: intro
-title: Table of contents
+title: Applied Problem Solving - Supplemental Documentation
 sidebar_position: 1
 slug: /
-description: Contents of (course notes title here)
+description: Supplemental Documentation
 ---
 
-# Table of contents
+# APS145: Applied Problem Solving
 
-## Introduction <a id="part-a-introduction"></a>
+## Supplemental Course Documentation
 
-- [Test Page](A-Introduction/testfile.md)
-- [Topic 2](A-Introduction/topic-file-2.md)
-- [Topic 3](A-Introduction/topic-file-3.md)
+### Workshops
 
-## SubSection2
+- [Workshop: Grading and Promotion Policies](./assets/Workshop-Grading-and-Promotion-Policies.pdf)
 
-- [Topic 1](B-SubSection2/topic-file-1.md)
-- [Topic 2](B-SubSection2/topic-file-2.md)
-- [Topic 3](B-SubSection2/topic-file-3.md)
-
-## SubSection3
-
-- [Topic 1](C-SubSection3/topic-file-1.md)
-- [Topic 2](C-SubSection3/topic-file-2.md)
-- [Topic 3](C-SubSection3/topic-file-3.md)
+- [Workshop: Assignment and Submission Policies](./assets/Workshop-Assignments-and-Submission-Policies.pdf)
