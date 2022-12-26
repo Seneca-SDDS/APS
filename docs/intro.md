@@ -10,8 +10,6 @@ description: Supplemental Documentation
 
 ## Supplemental Course Documentation
 
-### Workshops
+This site is used strictly to **supplement** the Applied Problem Solving course (APS145) with additional information about procedure, policies, and/or other documentation.
 
-- [Workshop: Grading and Promotion Policies](/assets/Workshop-Grading-and-Promotion-Policies.pdf)
-
-- [Workshop: Assignment and Submission Policies](/assets/Workshop-Submission-Policies.pdf)
+All course content is otherwise provided to you in your course management system (Blackboard) for your specific course section.
