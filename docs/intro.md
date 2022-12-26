@@ -14,4 +14,4 @@ description: Supplemental Documentation
 
 - [Workshop: Grading and Promotion Policies](./assets/Workshop-Grading-and-Promotion-Policies.pdf)
 
-- [Workshop: Assignment and Submission Policies](./assets/Workshop-Assignments-and-Submission-Policies.pdf)
+- [Workshop: Assignment and Submission Policies](./assets/Workshop-Submission-Policies.pdf)
