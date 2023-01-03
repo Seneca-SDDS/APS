@@ -25,6 +25,7 @@ Workshops are divided into two parts. The **INDIVIDUAL** part is worth 40% of th
 
 ### Sub-Group Solution Part
 
+- The group solution must be **based on** the combination of all the individual parts done by each individual member. It is **minimally expected the group will work together to further test, refine, and enhance all logic to create an overall uniform cohesive solution.**
 - The group solution portion of the workshop grade will apply **only to the students who earned a grade > 0 for their individual assigned part**
 - The group solution is due by the **end of the class for the assigned workshop week** (unless otherwise instructed by your professor).
 - **The full name of all CONTRIBUTING members** MUST be stated at the top of all physical pages (or at the top of the first page **IN THE FILE DOCUMENT** if being submitted via email)
