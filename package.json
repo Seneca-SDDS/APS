@@ -33,7 +33,10 @@
     "react-dom": "^17.0.1",
     "rehype-katex": "5",
     "remark-math": "3",
-    "url-loader": "^4.1.1"
+    "url-loader": "^4.1.1",
+	"trim": "^0.0.3",
+	"nth-check": "^2.0.1",
+	"got": "^11.8.5"
   },
   "browserslist": {
     "production": [
