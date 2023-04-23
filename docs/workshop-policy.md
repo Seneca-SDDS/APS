@@ -61,10 +61,10 @@ If your INDIVIDUAL portion of a workshop earned a zero grade, you will not recei
 - Your presentation should **minimally** consist of the following:
 
   - Must properly identify the audience and use non-technical language
-  - Always provide a **description of the problem** and a quick **summary of the solution** in **non-technical terms**. You should always assume your audience is only interested in USING your application and WHAT your solution can do for them.
-  - The **majority of the grade** is based on your demonstration of the envisioned solution which must contain mock screenshots or wireframing of how you foresee the application interface would look like and how it would be used (a **very low grade will be assigned** if this component is weak or missing).
+  - Always provide a **description of the problem** and summarize what your solution does to address it.
+  - The **majority of the grade** is based on your demonstration of the envisioned solution which **must contain** mock screenshots or wireframing of how you foresee the application interface would look like and how it would be used.
   - Must include a demonstration of **all major workflows** to convincingly sell your solution.
-  - NEVER explain HOW things work - but DO demonstrate WHAT the solution does.
+  - NEVER explain HOW things work - but **DO** demonstrate **WHAT** the solution does.
   - NEVER include pseudo code, flowcharts, or source code. Think of the presentation as a commercial advertisement, but directed at a specific/targeted audience.
 
 :::warning WARNING
