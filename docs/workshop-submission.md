@@ -131,7 +131,7 @@ Video files can be quite large and will most likely be rejected by Seneca's emai
   **Example**: If your name is Claira Henderson...
 
   ```
-  Claria Henderson.mp4
+  Claira Henderson.mp4
   ```
 
 - Create an email and use the **above-described SUBJECT line**.
